@@ -15,13 +15,11 @@ App({
   },
   globalData: {
     userInfo: null,
-    appid: 'wx855c82787f9fdcbe',
-    secret: '357bc128ebb06af91df3a4cbd908fada',
+    appid: '...',
+    secret: '...',
     u_id: '',
     apiUrl: 'https://www.itearlpickmeup.cn/pickmeup',
-    // apiUrl: 'http://192.168.1.102:8080/pickmeup',
     wsUrl: 'wss://www.itearlpickmeup.cn/pickmeup/getServer/',
-    // wsUrl: 'ws://192.168.1.102:8080/pickmeup/getServer/',
     lockReconnect: false,
     socketOpen: false
   },
